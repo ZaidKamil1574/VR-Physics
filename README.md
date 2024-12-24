@@ -11,5 +11,5 @@ VR View using the Headset
 XR Grab Interactable of the ball which showcases the Velocity and Force added to the ball.
 ![Image 10-22-24 at 12 02 AM](https://github.com/user-attachments/assets/243e00d2-7750-4992-ba85-6acbfd4a6f9c)
 
-XR Grab Interactable of the car which showcases the Velocity and Force added to the ball.
-![Image 10-22-24 at 12 04 AM](https://github.com/user-attachments/assets/da4fb65e-2d70-4e4b-830e-4cdc99ef8926)
+
+<img width="1422" alt="image" src="https://github.com/user-attachments/assets/aba852c6-fced-4a59-9ac9-5e7fe94bf38d" />
